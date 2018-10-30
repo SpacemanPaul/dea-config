@@ -39,7 +39,7 @@ metadata:
 measurements:
 - name: stddev
   dtype: float32
-  nodata: nan
+  nodata: NaN
   units: '1'
 
 storage:
